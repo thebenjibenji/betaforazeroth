@@ -1,7 +1,7 @@
 
 GatherMate2DB = {
 	["profileKeys"] = {
-		["Skookum - Frostmourne"] = "Default",
+		["YOUR_CAHR - YOUR_REALM"] = "Default",
 	},
 	["global"] = {
 		["data_version"] = 5,
