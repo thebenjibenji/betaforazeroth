@@ -13,3 +13,5 @@ OR
 Merge the data with your own go to C:XXXXXXXX\World of Warcraft\Interface\AddOns\GatherMate2_Data
 
 add HerbalismData.lua and go into wow and merge the DB
+
+Ill add the Herbdata lua laterzz
